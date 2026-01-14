@@ -1767,7 +1767,7 @@ input, select, textarea {
 		header > p {
 			display: block;
 			font-size: 1.5em;
-			margin: 1em 0 2em 0;
+			margin: 1em 0 1em 0;
 			line-height: 1.5em;
 			text-align: inherit;
 		}
@@ -2165,7 +2165,7 @@ input, select, textarea {
 	.wrapper {
 		background: #fff;
 		margin: 0 0 2em 0;
-		padding: 6em 0 6em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		.wrapper.style2 {
@@ -2182,7 +2182,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
-		padding: 7.5em 0 2em 0;
+		padding: 7.5em 0 1em 0;
 		cursor: default;
 	}
 
@@ -2468,7 +2468,7 @@ input, select, textarea {
 			background: #fff;
 			color: #195342;
 		}
-
+ 
 		#footer header {
 			text-align: center;
 			cursor: default;
@@ -2489,7 +2489,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			text-align: center;
-			color: rgba(128, 128, 128, 0.75);
+			color: #fff;
 			font-size: 0.8em;
 			cursor: default;
 		}
