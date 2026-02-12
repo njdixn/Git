@@ -143,6 +143,14 @@ input, select, textarea {
 		color: #483949;
 	}
 
+	#construction {
+		color: white;
+	}
+
+	#construction strong{
+		color: white;
+	}
+
 	em, i {
 		font-style: italic;
 	}
@@ -2526,7 +2534,8 @@ input, select, textarea {
 				width: 6em;
 				height: 6em;
 				border-radius: 100%;
-				background-color: rgba(72, 57, 73, 0.5);
+				background-color: #195342;
+				opacity: 0.75;
 				position: absolute;
 				top: 50%;
 				margin-top: -3em;
@@ -2549,7 +2558,7 @@ input, select, textarea {
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
-				background-color: rgba(239, 131, 118, 0.75);
+				background-color: #34816a;
 			}
 
 		.carousel .forward {
