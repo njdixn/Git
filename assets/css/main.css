@@ -143,11 +143,11 @@ input, select, textarea {
 		color: #483949;
 	}
 
-	#construction {
+	#construction h3 {
 		color: white;
 	}
 
-	#construction strong{
+	#construction h3 strong {
 		color: white;
 	}
 
